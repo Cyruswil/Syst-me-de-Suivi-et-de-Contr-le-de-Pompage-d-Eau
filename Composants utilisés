@@ -1,0 +1,19 @@
+Voici la liste complète des composants utilisés dans le projet Système de suivi et de contrôle de pompage d'eau :
+🔹 Composants électroniques
+•	Carte Arduino Nano
+•	Module relais (pour contrôler la pompe)
+•	Écran d'affichage (LCD 20*4_I2C)
+•	Capteur de débit d'eau (pour mesurer la consommation)
+•	4 Boutons poussoirs (pour l'interface utilisateur)
+•	Lecteur de carte SD (pour enregistrer les valeurs de litres et le prix vendu)
+• Carte SD de 2 Gb
+•	LM2596 (pour alimenter la plaquette mère en 5V à partir du 12V)
+🔹 Alimentation et connexions
+•	Bloc d’alimentation 12V/5V (pour la pompe et le circuit)
+•	Convertisseur abaisseur de tension (LM2596)
+•	Plaquette électronique / PCB (conçue pour le projet)
+•	Fils de connexion et connecteurs
+🔹 Actionneurs
+•	Pompe à eau électrique
+•	Électrovanne
+
